@@ -1,0 +1,111 @@
+@import url('http://fonts.googleahttps://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap%27');
+*
+{
+margin: 0;
+padding: 0;
+font-family:'Franklin Gothic Medium';
+justify-content: center;
+}
+body {
+    background-image: url("GIF/uwp301671.gif");
+    background-repeat: 
+   background-size: fill;
+   padding: 500px;
+    background-color: black;
+    background-attachment: scroll;
+    display: flex;              /* establish flex container */
+    flex-direction: column;     /* stack flex items vertically */
+    justify-content: center;
+    align-items: center;
+   
+}
+main {
+    display: flex;
+    border-radius: 20px;
+    box-shadow: 0 2px 5px black
+
+
+
+ }
+ #page_top {
+    width: 1000px;
+   border: 15px outset red;
+   border-radius: 20px 20px 20px 20px;
+   background-color: white;    
+   text-align: center;
+   opacity: 0.6;
+ }
+ //neveikia mygtuko apipavidalinimas
+ #button {
+    background-color:
+    border: 2px;
+ }
+
+#Angus {
+    vertical-align: auto;
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+    border-radius: 20px 20px 20px 20px;
+    opacity: 0.8;
+}
+
+    form {
+        vertical-align: auto;
+        width: 1000px;
+        background: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        padding: ;
+        box-sizing: border-box;
+        border: 15px outset red;
+        border-radius: 20px 20px 20px 20px;
+        opacity: 0.8;
+    }
+input, select {
+    background: none;
+    border: none;
+    color: ;
+    outline: none;
+    border-bottom: 2px solid rgba(128, 128, 128, 0.3);
+    font-size: 1.1em;
+    padding: 5px;
+}
+select {
+    padding-left: 2px;
+}
+option {
+    background: white;
+    color: black;
+}
+input {
+    [type="submit"]
+background: green;
+width: 120px;
+border-radius: 120px
+}
+input [type="submit"]:hover 
+{
+    cursor: pointer;
+    box-shadow: 0 0 5px black;
+}
+
+#kalendorius {
+    width: 1000px;
+    border: 15px outset red;
+    background-color: white;    
+    text-align: center;
+    border-radius: 20px 20px 20px 20px;
+    opacity: 0.9;
+}
+#audio {
+    position: sticky; 
+}
+#map {
+object-position: center;  
+justify-content: center;
+    align-items: center;
+    <!-- Neveikia centravimas -->
+}
